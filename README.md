@@ -4,7 +4,9 @@ Le rapport offre une synthèse détaillée de la surveillance des ventes sur une
 la catégorie de produits et la classe de clients. À gauche de la page, un filtre de sélection de produits est disponible pour personnaliser les données en fonction de vos préférences. Il convient de noter que toutes les 
 informations présentées sur les pages du rapport sont automatiquement triées en fonction de la date.
 
+
 ![image](https://github.com/Musta1Pha/SalesDashboard_BI/assets/91842692/f6e04c83-3fb5-45df-88bc-e42abdf8304a)
 
 
 
+![image](https://github.com/Musta1Pha/SalesDashboard_BI/assets/91842692/e80067b0-6a00-4b01-b644-1e0654a0c57b)
